@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <h3> Frontend</h3> ⚡
 <p align="left">
-  <img src="./assets/skill_icons/html.png" height="32" alt="HTML" style="margin-right:8px;" />
+  <img src="https://github.com/Anna-Colberg/Anna-Colberg/blob/main/html.png" height="32" alt="HTML" style="margin-right:8px;" />
   <img src="./assets/skill_icons/CSS.png" height="32" alt="CSS" style="margin-right:8px;" />
   <img src="./assets/skill_icons/js.png" height="32" alt="JavaScript" style="margin-right:8px;" />
 </p>
