@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 
 <h3> Dev-Tools</h3> ⚡
 <p align="left">
-  <img src="./assets/skill_icons/git.png" height="32" alt="Git" />
+  <img src="https://github.com/Anna-Colberg/Anna-Colberg/blob/main/git.png" height="32" alt="Git" />
 </p>
