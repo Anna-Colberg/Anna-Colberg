@@ -5,16 +5,17 @@
  <br /><br />
 <p align="center">
   <br /><br />
-  I'm 30 years old and live near Salzwedel with my family of four.
-  <br /><br />
-  I was a soldier in the German Armed Forces from 2017 to 2025.
-  <br /><br />
-  I would like to start a new career in web development. I'm still a beginner, I'm very quick to learn, a team player, and always motivated.
-  <br /><br />
-  I successfully completed my secondary school diploma in 2013.
-  I have completed training as a warehouse specialist and have a Class B/CE driver's license.
-</p>
+ I'm a budding web developer and am currently completing an intensive bootcamp where 
 <br /><br />
+ I'm learning HTML, CSS, JavaScript, as well as Git and GitHub.
+ <br /><br />
+ With a high level of motivation, willingness to learn, and team spirit, I'm working on 
+ <br /><br />
+ continually expanding my knowledge and implementing creative and professional web solutions.
+  <br /><br />
+  I have completed training as a warehouse specialist and have a Class B/CE driver's license.
+<br /><br />
+</p>
 
 ---
 
